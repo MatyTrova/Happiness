@@ -3,7 +3,7 @@
                                             
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/telecomunicaciones%201.png"  height=300>
+<img src="https://github.com/MatyTrova/Happiness/blob/main/imgs/fondo%202.jpg"  height=300>
 </p>
 
 --- 
