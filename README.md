@@ -88,11 +88,7 @@ A continuación se adjuntaran imágenes del respectivo dashboard :
 ---
 
 <p align="center">
-<img src="https://github.com/MatyTrova/Happiness/blob/main/imgs/viz_5.png"  alt="Happiness">
-</p>
----
-<p align="center">
-<img src="https://github.com/MatyTrova/Happiness/blob/main/imgs/viz_3.png"  alt="Happiness">
+<img src="https://github.com/MatyTrova/Happiness/blob/main/imgs/viz_2.png"  alt="Happiness">
 </p>
 ---
 <p align="center">
@@ -100,7 +96,11 @@ A continuación se adjuntaran imágenes del respectivo dashboard :
 </p>
 ---
 <p align="center">
-<img src="https://github.com/MatyTrova/Happiness/blob/main/imgs/viz_2.png"  alt="Happiness">
+<img src="https://github.com/MatyTrova/Happiness/blob/main/imgs/viz_5.png"  alt="Happiness">
+</p>
+---
+<p align="center">
+<img src="https://github.com/MatyTrova/Happiness/blob/main/imgs/viz_3.png"  alt="Happiness">
 </p>
 
 
