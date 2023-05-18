@@ -62,30 +62,49 @@ Este proyecto me permitió fortalecer mis habilidades en Ciencia de Datos, aplic
 A continuación se adjuntaran imágenes del respectivo dashboard :
 ---
 <p align="center">
-<img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/Portada.png"  alt="Happiness">
+<img src="https://github.com/MatyTrova/Happiness/blob/main/imgs/Portada_streamlit.png"  alt="Happiness">
 </p>
 
 
 ---
 <p align="center">
-<img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/P%C3%A1gina%201.png"  alt="Happiness">
+<img src="https://github.com/MatyTrova/Happiness/blob/main/imgs/datos_1.png"  alt="Happiness">
 </p>
 
 
 
 ---
 <p align="center">
-<img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/P%C3%A1gina%202.png"  alt="Happiness">
+<img src="https://github.com/MatyTrova/Happiness/blob/main/imgs/datos_2.png"  alt="Happiness">
 </p>
 
 
 ---
 <p align="center">
-<img src="https://raw.githubusercontent.com/MatyTrova/PI-DataAnalytics/main/imgs/P%C3%A1gina%203.png"  alt="Happiness">
+<img src="https://github.com/MatyTrova/Happiness/blob/main/imgs/viz_1.png"  alt="Happiness">
 </p>
 
 
 ---
+
+<p align="center">
+<img src="https://github.com/MatyTrova/Happiness/blob/main/imgs/viz_2.png"  alt="Happiness">
+</p>
+---
+<p align="center">
+<img src="https://github.com/MatyTrova/Happiness/blob/main/imgs/viz_3.png"  alt="Happiness">
+</p>
+---
+<p align="center">
+<img src="https://github.com/MatyTrova/Happiness/blob/main/imgs/viz_4.png"  alt="Happiness">
+</p>
+---
+<p align="center">
+<img src="https://github.com/MatyTrova/Happiness/blob/main/imgs/viz_5.png"  alt="Happiness">
+</p>
+
+
+
 
 
 
