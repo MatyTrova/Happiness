@@ -4,7 +4,7 @@ import streamlit as st
 st.title("**Proyecto Happiness**")
 
 # Imagen
-st.image("https://github.com/MatyTrova/Happiness/blob/main/imgs/fondo%202.jpg", use_column_width=True)
+st.image("imgs/fondo 2.jpg", use_column_width=True)
 # Línea divisoria
 st.markdown("---")
 # Encabezado
